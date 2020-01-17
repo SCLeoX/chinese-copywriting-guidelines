@@ -74,7 +74,7 @@ Bad:
 
 > 今天出去买菜花了5000元。
 
-### No space between numbers and units
+### No space between numbers and abbreviated units
 
 Good:
 
